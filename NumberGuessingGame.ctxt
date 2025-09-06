@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NumberGuessingGame
+comment1.params=
+comment1.target=Game()
+comment2.params=
+comment2.target=int\ takeUserInput()
+comment3.params=userGuess
+comment3.target=boolean\ isCorrect(int)
+comment4.params=
+comment4.target=int\ getNoOfGuesses()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
